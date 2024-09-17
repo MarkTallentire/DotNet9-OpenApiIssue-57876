@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "w29LvtlzlNI=",
+  "success": true,
+  "projectFilePath": "D:\\repos\\OpenApiTests\\OpenApiTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olemu\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0-rtm.24466.12\\microsoft.aspnetcore.openapi.9.0.0-rtm.24466.12.nupkg.sha512",
+    "C:\\Users\\olemu\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\olemu\\.nuget\\packages\\scalar.aspnetcore\\1.2.3\\scalar.aspnetcore.1.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
